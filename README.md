@@ -9,8 +9,10 @@ Have experience with Backend languages such as:
 
 With Frontend languages such as:
 - JS (React JS); 
-- SQL-like languages; 
-- tools such as Docker, GIT, Node, Unity3D.
+
+SQL-like languages.
+
+Tools such as Docker, GIT, Node, Unity3D.
 
 Currently learning more about Computer Networks and the way that they truly work. Working in the automobile industry 🚗 @ Digital Lights since September, 2021, studying Computer Sciences @ Faculty of Mathematics and Informatics, Sofia University.
 

@@ -22,3 +22,9 @@ Currently learning more about Computer Networks and the way that they truly work
 - 😄 Pronouns: he/him 
 
 
+<p align="center">
+<a href="https://github.com/zyppyvids">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zyppyvids&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zyppyvids&layout=compact&langs_count=8&theme=merko"/>
+</a>
+</p>
